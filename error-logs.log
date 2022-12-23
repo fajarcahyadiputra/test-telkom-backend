@@ -1,0 +1,40 @@
+2022-08-23 09:32:13 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:34:63 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:35:29 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:48:63 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:50:98 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:51:21 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:51:85 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:53:35 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:54:49 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:55:68 - ERROR   - Query condition missed key schema element: productId
+2022-08-23 09:56:02 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:57:44 - INFO    - Server running on http://localhost:3000
+2022-08-23 09:57:23 - ERROR   - Query condition missed key schema element: productId
+2022-08-23 09:57:23 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:01:43 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:02:52 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:04:34 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:07:89 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:08:39 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:09:50 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:13:21 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:13:95 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:15:88 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:16:81 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:18:85 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:20:04 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:21:01 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:24:19 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:26:70 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:26:85 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:27:35 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:29:88 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:32:38 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:46:96 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:51:37 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:51:74 - ERROR   - Invalid time value
+2022-08-23 10:53:40 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:53:74 - ERROR   - Invalid time value
+2022-08-23 10:53:87 - INFO    - Server running on http://localhost:3000
+2022-08-23 10:54:69 - ERROR   - Invalid time value

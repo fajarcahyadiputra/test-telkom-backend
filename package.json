@@ -1,0 +1,23 @@
+{
+  "name": "test-kerja-fasttech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --poll src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.5",
+    "@types/node": "^18.11.17",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  }
+}
